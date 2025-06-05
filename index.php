@@ -10,18 +10,11 @@ function sayHello($name) {
 }
 
 ?>
-
 <html>
 	<head>
-		<title>Visual Studio Code Remote :: PHP</title>
+		<title>WebApp :: PHP</title>
 	</head>
 	<body>
-		<?php 
-		
-		sayHello('remote world');
-			
-		phpinfo(); 
-			
-		?>
+		<h1><?php sayHello('Nuysj!!');?></h1>
 	</body>
 </html>
